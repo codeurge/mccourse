@@ -12,6 +12,12 @@
   "item.mccourse.copper_axe": "Copper Axe",
   "item.mccourse.copper_hoe": "Copper Hoe",
 
+  "block.mccourse.copper_stairs": "Copper Stairs",
+  "block.mccourse.copper_fence": "Copper Fence",
+  "block.mccourse.copper_fence_gate": "Copper Fence Gate",
+  "block.mccourse.copper_button": "Copper Button",
+  "block.mccourse.copper_pressure_plate": "Copper Pressure Plate",
+  "block.mccourse.copper_slab": "Copper Slab",
 
   "item.mccourse.copper_helmet": "Copper Helmet",
   "item.mccourse.copper_chestplate": "Copper Chestplate",
