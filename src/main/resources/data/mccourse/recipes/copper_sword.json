@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " x ",
+    " x ",
+    " y "
+  ],
+  "key": {
+    "x": {
+      "item": "mccourse:copper_ingot"
+    },
+    "y": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "mccourse:copper_sword"
+  }
+}
